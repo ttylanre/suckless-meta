@@ -1,4 +1,3 @@
-````markdown
 # Suckless Monorepo
 
 Unified configuration and build manager for my suckless desktop environment.
@@ -13,7 +12,6 @@ Unified configuration and build manager for my suckless desktop environment.
 ├── Makefile     # Root build and install orchestrator
 └── README.md
 ```
-````
 
 ## Requirements
 
@@ -28,7 +26,7 @@ Clone the repository with its submodules:
 
 ```bash
 git clone --recurse-submodules https://github.com/ttylanre/suckless-tools.git
-cd suckless-tools
+cd suckless-meta
 ```
 
 Build and install all tools system-wide:
